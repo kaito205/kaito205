@@ -14,7 +14,7 @@
  
  🌱 Saya sedang belajar **HTML, CSS, dan JavaScript**
 
-⚡ Fakta menarik: **Saya suka bermain game dan membaca buku!**
+⚡ **Saya suka bermain game, nonton anime dan membaca buku!**
 
  </div>
  
