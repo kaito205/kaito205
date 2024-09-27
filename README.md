@@ -42,8 +42,6 @@
 <hr/>
 
 <div align="center">
-  <h2>📈 Kontribusi Saya 📈</h2>
-  <br>
   <img alt="ular memakan kontribusi saya" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
