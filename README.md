@@ -25,9 +25,6 @@
   <a href="https://tiktok.com" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </div>
 
  <hr/>
@@ -48,7 +45,4 @@
 </div>
 
 <hr>
-<div align="center">
-<a href='https://trakteer.id/kaito205/tip' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Trakteer Kopi' /></a>
-</div>
 <hr/>
